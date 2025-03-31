@@ -8,7 +8,11 @@ This project was created for practice and exploration of UI/UX, event handling, 
 
 ## 🖼️ Preview
 
-> _Insert a screenshot or gif here if you have one!_
+![image](https://github.com/user-attachments/assets/6fb4dc2f-f139-48b2-9cec-b83d3321398e)
+
+![{8B2FD17B-30B3-4A65-B360-224D76A0C291}](https://github.com/user-attachments/assets/1020a34a-c07e-407d-80fa-816fbadccb9e)
+
+![{7A3A90EC-D8A7-46FD-A1E9-BCE230CDF0FC}](https://github.com/user-attachments/assets/e3ed31f4-3a49-4d12-ab4f-fba4e830ed34)
 
 ---
 
@@ -19,7 +23,7 @@ This project was created for practice and exploration of UI/UX, event handling, 
 
 - 🏠 **Home Page with Navigation**  
   Fully interactive home screen featuring:
-  - “Book Flight” and “Blog” sections
+  - “Book Flight” and “Blog” sections (No Functionality)
   - Region-specific travel ads (Asia, Europe, Africa, etc.)
   - Tooltips for UI guidance
   - Hover and click animations for buttons
@@ -40,12 +44,3 @@ This project was created for practice and exploration of UI/UX, event handling, 
 - **Object-Oriented Design**
 - **Images Preloaded with a Utility Class**
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/airventurelogin.git
-cd airventurelogin
